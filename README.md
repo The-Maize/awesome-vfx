@@ -116,9 +116,10 @@ Tools
 ## Pipeline
 |                               Name                               |   OSS   | Free |                                            Description                                            |
 | ---------------------------------------------------------------- | ------- | ---- | ------------------------------------------------------------------------------------------------- |
-| [animx](https://github.com/Autodesk/animx)                       | Apache2 | Yes  | A project to make it easier for people to use Maya animation in their tools and pipelines.        |
-| [mayaTaskServer](https://github.com/chrisevans3d/mayaTaskServer) | ?????   | Yes  | A standalone Maya Task Server.                                                                    |
-| [uExport](https://github.com/chrisevans3d/uExport)               | ?????   | Yes  | uExport is a simple tool to automatically export complex characters from Maya to Unreal Engine 4. |
+| [animx](https://github.com/Autodesk/animx)                               | Apache2 | Yes  | A project to make it easier for people to use Maya animation in their tools and pipelines.        |
+| [mayaTaskServer](https://github.com/chrisevans3d/mayaTaskServer)         | ?????   | Yes  | A standalone Maya Task Server.                                                                    |
+| [maya-alembic-export](https://github.com/tokejepsen/maya-alembic-export) | LGPLv3  | Yes  | Alembic exporting made easier.                                                                                                                                                          |
+| [uExport](https://github.com/chrisevans3d/uExport)                       | ?????   | Yes  | uExport is a simple tool to automatically export complex characters from Maya to Unreal Engine 4. |
 
 ## Rigging
 
