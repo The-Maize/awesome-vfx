@@ -226,3 +226,13 @@ Blender
 |                         Name                          |   OSS   | Free |                             Description                              |
 | ----------------------------------------------------- | ------- | ---- | -------------------------------------------------------------------- |
 | [blendergltf](https://github.com/Kupoman/blendergltf) | Apache2 | Yes  | Addon for Blender that adds the ability to export to the gltf format |
+|
+
+
+Assets
+===============
+|                                  Name                                  |  OSS  | Free |                            Description                            |
+| ---------------------------------------------------------------------- | ----- | ---- | ----------------------------------------------------------------- |
+| [AnimationMethods](https://animationmethods.com/rigs.html)   | Lic Varies |  Most | Tools and rigs for animation and rigging inc Models, Scenes, Rigs, Maya tools and access to artist links
+
+
